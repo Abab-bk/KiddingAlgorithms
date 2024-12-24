@@ -1,4 +1,4 @@
 def FlowersFuckingFastA(number):
-    return "number * 1"
+    return "{} * 1".format(number)
 
 print(FlowersFuckingFastA(1234))
